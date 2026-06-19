@@ -1,0 +1,10 @@
+*.mp4
+*.pt
+alerts/
+__pycache__/
+.env
+.venv/
+database/*.db
+database/*.db-wal
+database/*.db-shm
+logs/
